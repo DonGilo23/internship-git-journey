@@ -9,9 +9,7 @@ My Internship Goal
 My goal is to improve my technical knowledge and become more comfortable using tools that are commonly used in software development.
 
 I also want to develop good working habits and learn from practical experiences during my internship.
+## My Goal
 
- Git and GitHub Practice
-
-This activity is helping me understand how version control works in practice. I am learning how commits can be used to record changes and how GitHub can be used to store and share project work.
-
-I plan to continue practicing these skills so that I can use Git and GitHub more confidently in future projects.
+During this internship, I want to improve my Git and GitHub skills.
+ 
